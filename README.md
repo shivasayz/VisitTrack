@@ -1,6 +1,6 @@
 # VisitTrack (Java + MySQL)
 
-VisitorLog is a Java-based console application that helps track and manage visitor entries using a MySQL database. Designed for use in offices, institutions, or any space with regular foot traffic, VisitorLog provides a simple way to record guest details, update visitor info, and mark exit times — all from a terminal interface. It ensures visitor data is organized, timestamped, and accessible for future reference.
+VisitorLog is a Java-based console application that helps track and manage visitor entries using a MySQL database. Designed for use in offices, institutions, or any space with regular foot traffic, VisitTrack provides a simple way to record guest details, update visitor info, and mark exit times — all from a terminal interface. It ensures visitor data is organized, timestamped, and accessible for future reference.
 
 ## 📋 Features
 
