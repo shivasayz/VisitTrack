@@ -6,7 +6,7 @@ public class visitors_db {
 
         String url = "jdbc:mysql://localhost:3306/students";
         String username = "root";
-        String password = "th!$!$$q!p@191923oRd";
+        String password = "";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
